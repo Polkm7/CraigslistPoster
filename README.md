@@ -7,3 +7,7 @@ Project Goals:
     2. Scramble text body to reduce chance of getting removed
     3. Read and store inventory in file
     4. Ability to make many email accounts
+    
+Dependencies:
+    1. Selenium
+    2. Conductor
