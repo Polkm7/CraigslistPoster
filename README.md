@@ -9,5 +9,6 @@ Project Goals:
     4. Ability to make many email accounts
     
 Dependencies:
-    1. Selenium
-    2. Conductor
+    1. Selenium \n
+    2. Conductor \n
+    3. Selenium chromeDriver
